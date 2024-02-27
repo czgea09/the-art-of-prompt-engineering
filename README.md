@@ -1,31 +1,35 @@
-**The Art of Prompt Engineering**
+# The Art of Prompt Engineering
 
 Author : CognitiveClass.ai
 
-**Mentee assignment from IBM Advance A.I. @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai**
+# Mentee assignment from IBM Advance A.I. @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
-**Mentee Info**
+# Mentee Info
 
 Name : Carlos Jonathan Gea
 
 Program : IBM Advance A.I.
 
-**Mentor Info**
+# Mentor Info
 
 Name : Arifian Saputra
 
-**Tech Stack:**
+# Tech Stack
 
-Jupyter Notebook
+- Jupyter Notebook
 
-**Credits:**
+# Credits
 
-Parents
+- Parents
 
-Cindy Febriani
+- Cindy Febriani
 
-Arifian Saputra
+- Arifian Saputra
 
-Infinite Learning
+- Infinite Learning
 
-IBM Academy
+- IBM Academy
+
+## Created By
+
+@czgea09
